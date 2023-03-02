@@ -1,10 +1,10 @@
 # 🙂Hello
 <img alt='gift' width='400' align='right' src='https://miro.medium.com/max/1000/1*dcL4QoY64t9rOsLQpNYwJg.gif'>
 I am an entry level frontend developer.
-<br>⚛️ I am currently working on projects based on React and Vanilla Javascript.
-<br>🧱a bit of both relational and non-relational databases
-<br>⭐i love to do 3D stuff in Three.js
-<br>🔥I collaborate on Github Projects and I continue learning every day!
+<br>⚛️ Currently working on projects based on React and Vanilla Javascript.
+<br>🧱 Also a bit of both relational and non-relational databases
+<br>⭐ I love to do 3D stuff in Three.js
+<br>🔥 Collaborating on Github Projects and I continue learning every day!
 <br>👜 My Portfolio https://3-d-website-neon.vercel.app
 
 # 💻 Tech Stack
