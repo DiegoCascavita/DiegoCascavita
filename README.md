@@ -13,7 +13,7 @@ I am an entry level frontend developer.
 # 📊 GitHub Stats
 
 <div style="display:flex; flex-wrap: wrap; justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoCascavita&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 49%; margin-right: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoCascavita&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 50%; margin-right: 15px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCascavita&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 48%; margin-left: 15px;">
 </div>
 
