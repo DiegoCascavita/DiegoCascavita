@@ -12,6 +12,7 @@ I am an entry level frontend developer.
 
 # 📊 GitHub Stats
 
-| | |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCascavita&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) | ![Stats](https://github-readme-stats.vercel.app/api?username=DiegoCascavita&theme=dark&hide_border=false&include_all_commits=true&count_private=true) |
+<div style="display:flex; flex-wrap: wrap; justify-content:center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=DiegoCascavita&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 46%; padding-right: 1rem;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCascavita&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 43%; padding-left: 1rem;">
+</div>
