@@ -1,8 +1,5 @@
 # 🙂Hello
 I am an entry level frontend developer.<br>⚛️ I am currently working on projects based on React and Vanilla Javascript.<br>🧱a bit of both relational and non-relational databases<br>⭐i love to do 3D stuff in Three.js<br>🔥I collaborate on Github Projects and I continue learning every day!<br>👜 My Portfolio https://3-d-website-neon.vercel.app
-
-
-## 🟢 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-alejandro-cascavita-poveda-890524124/) 
 
 # 💻 Tech Stack
