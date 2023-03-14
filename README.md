@@ -15,7 +15,7 @@ I am a frontend developer focused on React.js.
 # 📊 GitHub Stats
 
 <div style="display:flex; flex-wrap: wrap; justify-content:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiegoCascavita&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" style="width: 55%; margin-right: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoCascavita&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 44%; margin-left: 15px;">
+  <img src="https://github-readme-stats-nine-blond-35.vercel.app/api?username=DiegoCascavita&show_icons=true&theme=dark#gh-dark-mode-only" alt="GitHub Stats" style="width: 55%; margin-right: 15px;">
+  <img src="https://github-readme-stats-nine-blond-35.vercel.app/api/top-langs/?username=DiegoCascavita&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" style="width: 42%; margin-left: 15px;">
 </div>
 
