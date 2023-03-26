@@ -1,10 +1,10 @@
 # 🙂Hello
 <img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://miro.medium.com/max/1000/1*dcL4QoY64t9rOsLQpNYwJg.gif'>
 I am a frontend developer focused on React.js.
-<br>⚛️ Currently working on projects based on React and Vanilla Javascript.
-<br>🧱 Also a bit of both relational and non-relational databases
+<br>⚛️ Currently working on projects based on React and Three.js 3D.
+<br>🧱 Also a bit of both relational (sql) and non-relational(mongodb) databases and auth in firebase
 <br>⭐ I love to do 3D stuff in Three.js
-<br>🔥 Collaborating on Github Projects and I continue learning every day!
+<br>🔥 Collaborating on Github Projects and learning every day!
 <br>👜 My Portfolio https://3-d-website-neon.vercel.app
 
 # 💻 Tech Stack
