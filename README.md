@@ -1,6 +1,6 @@
 # 🙂 Hello, I'm Diego 
 <img alt='gift' width='400' align='right' style="border-radius: 10px" src='https://miro.medium.com/max/1000/1*dcL4QoY64t9rOsLQpNYwJg.gif'>
-I am a frontend developer focused on React.js.
+I am a fullstack developer focused on React.js. and C# .NET
 <br>⚛️ Currently working on projects based on React and Three.js 3D.
 <br>🧱 some relational db (sql), non-relational (mongodb) 
 <br>    and firebase authentication
